@@ -42,6 +42,13 @@ It’s also a great example for those looking to build or enhance landing pages 
 - **Backend Integration**: This project could also be extended with a backend to handle user authentication, creating a full-fledged Discord-like web app.
 
 ### License:
-This project is open-source and available for personal and educational use. Please refer to the LICENSE file for more details.
+This project is open-source and available for personal and educational use. 
+
+## Watch the Video
+
+Click the thumbnail below to watch the video on YouTube:
+
+[![Watch Video](https://img.youtube.com/vi/UipD4LPkBEM/0.jpg)](https://youtu.be/UipD4LPkBEM?feature=shared)
+
 
 ---
